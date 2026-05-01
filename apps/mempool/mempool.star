@@ -20,7 +20,7 @@ LINE_IMG = LINE_IMG_ASSET.readall()
 DEFAULT_FIAT = "usd"
 URL_BLOCK_TIP_HEIGHT = "https://mempool.space/api/blocks/tip/height"
 URL_BLOCK_DETAILS = "https://mempool.space/api/v1/blocks"
-URL_FEES = "https://mempool.space/api/v1/fees/recommended"
+URL_FEES = "https://mempool.space/api/v1/fees/precise"
 
 BOX_SIZE_WIDTH = 28
 BOX_SIZE_HEIGHT = 27
